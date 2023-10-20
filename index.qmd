@@ -1,0 +1,184 @@
+---
+title: R/Pharma 2023
+format:
+  revealjs:
+    logo: logotext_small.png
+    footer: R/Pharma 2023
+---
+
+## Welcome to R/Pharma 2023
+
+<script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/lupuorrc.json"
+    trigger="loop"
+    style="width:500px;height:500px">
+</lord-icon>
+
+
+::: footer
+R/Pharma 2023  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
+:::
+
+## Housekeeping
+
+::: {style="font-size: 80%;"}
+-  General Guidelines
+    -  Terms and conditions - check the website at rinpharma.com/post/faq/.
+    -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practicioners, not salespeople.
+    -  Please be patient with us - virtual is different.
+-  Asking for help
+    - Slack: reach out in the #help-me channel in rinpharmaconf (rinpharmaconf.slack.com)
+    -  Contact form on rinpharma.com
+    -  Reach out in the conference chat
+    -  Email to info@rinpharma.com
+:::
+
+## What is R/Pharma?
+
+-  Volunteer organization of passionate R pacticioners in the Pharmaceutical and Biotech industries.
+-  Annual meeting
+    -  Workshops, keynotes and general talks.
+    -  Started in 2018 (In person 2018, 2019.  Virtual 2020->).
+-  Want to help?  Join our community.
+    -  email info@rinpharma.com to contribute.
+
+## R/Pharma at posit::conf
+
+-  R/Pharma held roundtable summit at posit::conf 2023.
+-  80 representatives for 45 companies contributed.
+-  We'll be sharing discussions with the community shortly.
+
+{{< video assets/RPharma_Summit.mp4 height="400" title="True randomization">}}
+
+## R/Pharma Workshops
+
+-  17 Workshops all free, put on by members of the community.
+-  4500 registrations, 1700 attendees, 76 countries
+-  Credly Credentials for completion.
+
+## R/Pharma Workshop Presenters
+
+:::: {.columns}
+
+::: {.column width="33%"}
+Rich Iannone  
+Daniel Lee  
+Allison Horst  
+Alexandra Lauer  
+Christina Fillmore  
+Irene Vassallo  
+Lyn Taylor  
+Mega Chiang
+:::
+
+::: {.column width="33%"}
+Nicola Rennie  
+Devin Pastoor  
+Priyanka Gagneja  
+Mutaz Jaber  
+Will Landau  
+Joanna Marques-Barros  
+Daniel Sarbanes Bove  
+Doug kelkhoff
+:::
+
+::: {.column width="33%"}
+Jose Sergio Hleap Lozano  
+Ari Siggaard Knoph  
+Ross Farrugia  
+Dony Unardi  
+Davide Garolini  
+Martin Frigaard  
+Shannon Hagerty  
+Omar ElAshkar
+:::
+
+::::
+
+## Brian Bole Award of Excellence
+
+::: {style="font-size: 80%;"}
+
+-  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
+-  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
+-  This year we're proud to present it to Anders Bilgrau, Ari Knoph, Steffen Larsen and the team at Novo Nordisk for their work on an R-Based Submission to the FDA.
+
+:::
+
+![](assets/abiu_hex.png){width=250}
+![](assets/aikp_hex.png){width=250}
+![](assets/sffl_hex.png){width=250}
+
+
+## Brian Bole Award of Excellence
+
+:::: {.columns}
+
+::: {.column width="75%" style="font-size: 80%;"}
+
+-  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
+-  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
+-  This year we're proud to present it to Anders Bilgrau, Ari Knoph, Steffen Larsen and the team at Novo Nordisk for their work on an R-Based Submission to the FDA.
+
+:::
+
+::: {.column width="25%"}
+
+![](assets/abiu_hex.png)
+![](assets/aikp_hex.png)
+![](assets/sffl_hex.png)
+
+:::
+
+::::
+
+
+## R/Pharma 2023
+
+-  Visit the **EXPO** to find out information on useful resources offered by the community.
+-  R/Pharma **discussion panels**.  Three panels - one at the end of each day.  Today's panel will be Novo Nordisk taking questions on their R-based FDA submission (see slido tab on the right to enter/upvote questions to the panel).
+-  **On-demand content**.  Hosted on R/Pharma YouTube channel.
+
+## Celebrating R/Pharma 2023
+
+:::: {.columns}
+
+::: {.column width="50%"}
+#### R/Pharma Merchandise Store
+:::
+::: {.column width="50%"}
+#### Tweeting #rinpharma
+![](assets/twitter-hashtag.png){width=50%}
+:::
+
+::::
+
+## R/Pharma TidyTuesday
+
+-  R/Pharma partnered with tidytuesday with a Pharma relevent dataset.  Check out github.com/rfordatascience/tidytuesday for today's dataset.  Build a visualization and tag it on social media with #TidyTuesday.
+
+## Ad-hoc Meetings
+
+-  Use the **sessions** capability of hopin to create a virtual room for meetings and discussions.
+-  Presenters - this is a great way to follow-up on questions after your presentation.
+
+## Thank You
+
+:::: {.columns}
+
+::: {.column width="50%"}
+#### Advisory Groups
+-  Metrum 
+-  Posit
+:::
+::: {.column width="50%"}
+#### Special Thank You
+-  Nischal Shrestha (Posit)
+-  Jon Harmon & Tracy Teal
+:::
+
+::::
+
+
+
