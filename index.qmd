@@ -111,29 +111,6 @@ Omar ElAshkar
 ![](assets/sffl_hex.png){width=250}
 
 
-## Brian Bole Award of Excellence
-
-:::: {.columns}
-
-::: {.column width="75%" style="font-size: 80%;"}
-
--  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
--  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
--  This year we're proud to present it to Anders Bilgrau, Ari Knoph, Steffen Larsen and the team at Novo Nordisk for their work on an R-Based Submission to the FDA.
-
-:::
-
-::: {.column width="25%"}
-
-![](assets/abiu_hex.png)
-![](assets/aikp_hex.png)
-![](assets/sffl_hex.png)
-
-:::
-
-::::
-
-
 ## R/Pharma 2023
 
 -  Visit the **EXPO** to find out information on useful resources offered by the community.
