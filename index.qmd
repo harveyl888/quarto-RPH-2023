@@ -49,7 +49,7 @@ R/Pharma 2023  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 -  80 representatives for 45 companies contributed.
 -  We'll be sharing discussions with the community shortly.
 
-{{< video assets/RPharma_Summit.mp4 height="400" title="True randomization">}}
+{{< video assets/RPharma_Summit.mp4 height="400">}}
 
 ## R/Pharma Workshops
 
