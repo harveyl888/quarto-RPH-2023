@@ -1,5 +1,7 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
   resources: 
     - assets/RPharma_Summit.mp4
