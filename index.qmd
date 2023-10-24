@@ -25,23 +25,23 @@ R/Pharma 2023  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ::: {style="font-size: 80%;"}
 -  General Guidelines
     -  Terms and conditions - check the website at rinpharma.com/post/faq/.
-    -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practicioners, not salespeople.
+    -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople.
     -  Please be patient with us - virtual is different.
--  Asking for help
-    - Slack: reach out in the #help-me channel in rinpharmaconf (rinpharmaconf.slack.com)
-    -  Contact form on rinpharma.com
-    -  Reach out in the conference chat
-    -  Email to info@rinpharma.com
+-  Asking for help (listed on the reception page)
+    - Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
+    -  Contact form on **rinpharma.com**
+    -  Reach out in the **conference chat**
+    -  Email to **info@rinpharma.com**
 :::
 
 ## What is R/Pharma?
 
--  Volunteer organization of passionate R pacticioners in the Pharmaceutical and Biotech industries.
+-  Volunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries.
 -  Annual meeting
-    -  Workshops, keynotes and general talks.
-    -  Started in 2018 (In person 2018, 2019.  Virtual 2020->).
+    -  Workshops, keynotes, talks and panels.
+    -  Started in 2018 (In person 2018, 2019.  Virtual from 2020).
 -  Want to help?  Join our community.
-    -  email info@rinpharma.com to contribute.
+    -  **email info@rinpharma.com to contribute**.
 
 ## R/Pharma at posit::conf
 
