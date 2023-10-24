@@ -47,15 +47,17 @@ R/Pharma 2023  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 -  R/Pharma held roundtable summit at posit::conf 2023.
 -  80 representatives for 45 companies contributed.
--  We'll be sharing discussions with the community shortly.
+-  We'll be sharing the output from the discussions with the community shortly.
 
 {{< video assets/RPharma_Summit.mp4 height="400">}}
 
 ## R/Pharma Workshops
 
 -  17 Workshops all free, put on by members of the community.
--  4500 registrations, 1700 attendees, 76 countries
+-  4500 registrations, 76 countries
 -  Credly Credentials for completion.
+
+![](assets/credly.png)
 
 ## R/Pharma Workshop Presenters
 
@@ -80,7 +82,7 @@ Mutaz Jaber
 Will Landau  
 Joanna Marques-Barros  
 Daniel Sarbanes Bove  
-Doug kelkhoff
+Doug Kelkhoff
 :::
 
 ::: {.column width="33%"}
@@ -106,9 +108,9 @@ Omar ElAshkar
 
 :::
 
-![](assets/abiu_hex.png){width=250}
-![](assets/aikp_hex.png){width=250}
-![](assets/sffl_hex.png){width=250}
+![](assets/abiu_hex.png){width=200}
+![](assets/aikp_hex.png){width=200}
+![](assets/sffl_hex.png){width=200}
 
 
 ## R/Pharma 2023
@@ -123,17 +125,21 @@ Omar ElAshkar
 
 ::: {.column width="50%"}
 #### R/Pharma Merchandise Store
+![](assets/bonfire.png){width=70%}
 :::
+
 ::: {.column width="50%"}
 #### Tweeting #rinpharma
-![](assets/twitter-hashtag.png){width=50%}
+![](assets/twitter-hashtag.png){width=45%}
 :::
 
 ::::
 
-## R/Pharma TidyTuesday
+## R/Pharma Conference Breaks
 
--  R/Pharma partnered with tidytuesday with a Pharma relevent dataset.  Check out github.com/rfordatascience/tidytuesday for today's dataset.  Build a visualization and tag it on social media with #TidyTuesday.
+-  Our daily schedule is approximately 4 1/2 hours each day and includes three breaks.
+    -  Breaks allow you to stretch and replenish but we also include some entertainment.
+    -  We encourage you to try out the networking feature of hopin to meet other conference attendees.
 
 ## Ad-hoc Meetings
 
@@ -148,6 +154,7 @@ Omar ElAshkar
 #### Advisory Groups
 -  Metrum 
 -  Posit
+-  Roche
 :::
 ::: {.column width="50%"}
 #### Special Thank You
